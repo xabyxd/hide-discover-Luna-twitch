@@ -4,11 +4,13 @@
 // @description  Basic script to hide Luna
 // @grant    GM_addStyle
 // @source      https://github.com/xaby-xd/hide-discover-Luna-twitch
-// @downloadURL https://github.com/xaby-xd/hide-discover-Luna-twitch
-// @updateURL   https://github.com/xaby-xd/hide-discover-Luna-twitch
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=twitch.tv
 // @version      2024-03-05
 // @include  https://www.twitch.tv/*
+// @license MIT
+// @namespace https://greasyfork.org/users/1270768
+// @downloadURL https://update.greasyfork.org/scripts/489094/_Hide%20Discover%20Luna%20Link%20on%20Twitch.user.js
+// @updateURL https://update.greasyfork.org/scripts/489094/_Hide%20Discover%20Luna%20Link%20on%20Twitch.meta.js
 // ==/UserScript==
 
 (function () {
