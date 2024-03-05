@@ -9,7 +9,12 @@
 // @include  https://www.twitch.tv/*
 // ==/UserScript==
 
-(function() {
+(function () {
     'use strict';
     GM_addStyle('a.top-nav__external-link[data-test-selector="top-nav__presto-link"][href="https://www.amazon.com/luna"] { display: none !important; }');
 })();
+
+//<a aria-label="Discover Luna" class="top-nav__external-link" link="8" data-a-target="try-presto-link" data-test-selector="top-nav__presto-link" label="Discover Luna" rel="noopener noreferrer" target="_blank" href="https://www.amazon.com/luna">
+//    <div><div class="Layout-sc-1xcs6mc-0 cqxhjh"><div class="Layout-sc-1xcs6mc-0 eLnISm">
+//        <p class="CoreText-sc-1txzju1-0 ScTitleText-sc-d9mj2s-0 AAWwv ezNtJL tw-title">Discover Luna</p></div>
+//        <div class="Layout-sc-1xcs6mc-0 irBXzy"><p class="CoreText-sc-1txzju1-0 ScTitleText-sc-d9mj2s-0 sghpq caLSIS tw-title">Discover Luna</p></div></div></div></a>
