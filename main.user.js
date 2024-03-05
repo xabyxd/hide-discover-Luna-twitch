@@ -4,6 +4,8 @@
 // @description  Basic script to hide Luna
 // @grant    GM_addStyle
 // @source      https://github.com/xaby-xd/hide-discover-Luna-twitch
+// @downloadURL https://github.com/xaby-xd/hide-discover-Luna-twitch
+// @updateURL   https://github.com/xaby-xd/hide-discover-Luna-twitch
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=twitch.tv
 // @version      2024-03-05
 // @include  https://www.twitch.tv/*
