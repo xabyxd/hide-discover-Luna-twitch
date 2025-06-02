@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name     _Hide Discover Luna Link on Twitch
-// @author       xaby_xd
+// @author       xabyxd
 // @description  Basic script to hide Luna
 // @grant    GM_addStyle
-// @source      https://github.com/xaby-xd/hide-discover-Luna-twitch
+// @source      https://github.com/xabyxd/hide-discover-Luna-twitch
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=twitch.tv
 // @version      2024-03-05
 // @include  https://www.twitch.tv/*
